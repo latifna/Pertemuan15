@@ -95,5 +95,3 @@
 8. Jika sudah benar dan berhasildi RUN maka akan menghasilkan output seperti gambar di bawah ini :
 
 ![gambar 11](img/11.png)
-
-# SEKIAN, TERIMA KASIH
